@@ -1,0 +1,32 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Local training data, attempts and recordings
+data/
+runs/
+footage/
+video/
+*.log
+*.mp4
+*.mkv
+*.wav
+*.zip
+
+# Credentials and machine settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

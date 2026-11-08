@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zuma-agent"
+version = "0.1.0"
+description = "Small visual imitation-learning agent for the installed Zuma Deluxe"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "pillow>=10", "mss>=10.2", "torch>=2.5", "opencv-python>=4.10", "rapidocr-onnxruntime==1.4.4"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+zuma-agent = "zuma_agent.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["zuma_agent*"]
+
+[tool.setuptools.package-data]
+zuma_agent = ["assets/*.png"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,619 @@
+{
+  "scope": "Compact projection of locally verified original run evidence. Full run logs, per-level screenshots and recordings are retained locally and are not bundled.",
+  "verified_for_publication": "2026-11-08",
+  "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81",
+  "campaign": {
+    "confirmed": 76,
+    "required": 76,
+    "complete": true,
+    "note": "Aggregate of development attempts, multiple ranker versions and ordinary retries; not a single uninterrupted run.",
+    "original_index_sha256": "50baa6ec5d0872c64ad922d8aef96367b9295b130fa1236fb6ba3afb8b112ae0",
+    "original_audit_sha256": "284d399957b2a571d38503c12c9029e22e465f945b3c6ac13ed65e7aa6b1dc92",
+    "levels": [
+      {
+        "stage": 1,
+        "level": 1,
+        "board": "spiral",
+        "victory_screenshot_sha256": "c242cb31b7de573183ac5b51be7d1bcaeb868eae67a35ad4394be43f24a87bf4"
+      },
+      {
+        "stage": 1,
+        "level": 2,
+        "board": "claw",
+        "victory_screenshot_sha256": "2cf67c625ccc64c6a75ef729b1dfb0fbe285dc006052715ff4e20d80de6b4e54"
+      },
+      {
+        "stage": 1,
+        "level": 3,
+        "board": "riverbed",
+        "victory_screenshot_sha256": "734db0fd85d2d184985ee2f03bd368d82fe368ab533d54fa6bb01b7c67e63a87"
+      },
+      {
+        "stage": 1,
+        "level": 4,
+        "board": "targetglyph",
+        "victory_screenshot_sha256": "c2d174479994991a91da44244d5eb65c8821083eb10a0e6e1a5a3759b8dc1997"
+      },
+      {
+        "stage": 1,
+        "level": 5,
+        "board": "blackswirley",
+        "victory_screenshot_sha256": "72768ac6094114d60a2432bdf22818d049dfeacd65597dfee146be5cbb1ae5c3"
+      },
+      {
+        "stage": 2,
+        "level": 1,
+        "board": "tiltspiral",
+        "victory_screenshot_sha256": "14a817887f02e94167f92106682bb22b203db17be20cd70519e920200bff3272"
+      },
+      {
+        "stage": 2,
+        "level": 2,
+        "board": "underover",
+        "victory_screenshot_sha256": "ed2d370f1a3cae72c4cbe953e98e33d0ed493b8622ddfb5239f5755f9586e84e"
+      },
+      {
+        "stage": 2,
+        "level": 3,
+        "board": "warshak",
+        "victory_screenshot_sha256": "46a02d416037a1168f06489cb9c139191f2dda3d343c4734c2819a3b47cd8018"
+      },
+      {
+        "stage": 2,
+        "level": 4,
+        "board": "loopy",
+        "victory_screenshot_sha256": "ccbf141a88c95cb460f6a579e2336892b5d95ec6cd42405b15fde238cd4c48b4"
+      },
+      {
+        "stage": 2,
+        "level": 5,
+        "board": "snakepit",
+        "victory_screenshot_sha256": "84ab256291ca9d518125bf923eeb8e1db5114889df190490485dc138daf43862"
+      },
+      {
+        "stage": 3,
+        "level": 1,
+        "board": "triangle",
+        "victory_screenshot_sha256": "29ab1cadd0e483178cbd243f5f2f28fdaf1d7e94223477724f1e94da200b2483"
+      },
+      {
+        "stage": 3,
+        "level": 2,
+        "board": "coaster",
+        "victory_screenshot_sha256": "9f7a712f62fae673f9ae18f289170379bebef35e8ba717baf899b5950b27c687"
+      },
+      {
+        "stage": 3,
+        "level": 3,
+        "board": "squaresville",
+        "victory_screenshot_sha256": "5fb9fe658bc63bd4236df2d3ffa36ad41e6aa10bd53f96ca2a105f66c3c42f67"
+      },
+      {
+        "stage": 3,
+        "level": 4,
+        "board": "tunnellevel",
+        "victory_screenshot_sha256": "ed504ac5e52e7774ef86b0362ac7bb480b3578bad6750ca0043a812ca99b9e96"
+      },
+      {
+        "stage": 3,
+        "level": 5,
+        "board": "serpents",
+        "victory_screenshot_sha256": "a5077ca4729f2669db7bd1439cd719a95e84b86e1463e70e22da2bbed63621de"
+      },
+      {
+        "stage": 4,
+        "level": 1,
+        "board": "spiral",
+        "victory_screenshot_sha256": "f9dd44ec75c18c41a5be4f0e469f672c97caa42328fad54724519272f92fdac8"
+      },
+      {
+        "stage": 4,
+        "level": 2,
+        "board": "claw",
+        "victory_screenshot_sha256": "4d3b42b205ec310b19b5db5621fcafc0c3ebd1afc70640038cd762971623b6fa"
+      },
+      {
+        "stage": 4,
+        "level": 3,
+        "board": "riverbed",
+        "victory_screenshot_sha256": "c8248290914121f87e04f56b03bd5130678c47cd899d5fd93f40b0d55b6f1079"
+      },
+      {
+        "stage": 4,
+        "level": 4,
+        "board": "targetglyph",
+        "victory_screenshot_sha256": "948272972cc215e75514aa7affe6a34700ac560e841b27357aebf8bac2c6682a"
+      },
+      {
+        "stage": 4,
+        "level": 5,
+        "board": "blackswirley",
+        "victory_screenshot_sha256": "2e79b24d4231ea4196aec6f6629a6beadda329f84290faa02b37fd7d331c42fd"
+      },
+      {
+        "stage": 4,
+        "level": 6,
+        "board": "turnaround",
+        "victory_screenshot_sha256": "d81282e03dbc5e7c006cccb15aac2b7d5fc9cec46857b18774d82f04cd311ea5"
+      },
+      {
+        "stage": 5,
+        "level": 1,
+        "board": "tiltspiral",
+        "victory_screenshot_sha256": "e2883718f1c4c4de43a99079730bba157c6081051265b796134498b30bcdb02b"
+      },
+      {
+        "stage": 5,
+        "level": 2,
+        "board": "underover",
+        "victory_screenshot_sha256": "a52ff1fecc3258cc32fbfe3db543dfa6aa747a9942a89c1d24f1b185558df65d"
+      },
+      {
+        "stage": 5,
+        "level": 3,
+        "board": "warshak",
+        "victory_screenshot_sha256": "6d5dd955ce2c9a272d19ca9d8ae22863c66636380fcb07a56c5708157c95d3ae"
+      },
+      {
+        "stage": 5,
+        "level": 4,
+        "board": "loopy",
+        "victory_screenshot_sha256": "d277e4055577172897eb747980774d82b242417956dfc8664406f429d27f0eda"
+      },
+      {
+        "stage": 5,
+        "level": 5,
+        "board": "snakepit",
+        "victory_screenshot_sha256": "39ce8ad4c02d0987a4ffeec6137bc45ec47954e2c27f1f47bf50067768b61b6b"
+      },
+      {
+        "stage": 5,
+        "level": 6,
+        "board": "groovefest",
+        "victory_screenshot_sha256": "44aa89bb7da93b2e03cd6829c8af7a0695d44a7d3217dcb746ef39d0f8f2ebb9"
+      },
+      {
+        "stage": 6,
+        "level": 1,
+        "board": "triangle",
+        "victory_screenshot_sha256": "0a821226e7b44b73f97bfd3238020966f0a2560dd1117c20873f8801b59a2805"
+      },
+      {
+        "stage": 6,
+        "level": 2,
+        "board": "coaster",
+        "victory_screenshot_sha256": "b48e76bf6963a35be0312c2c3200ce21e18dbcd83939b02d78b8237f676aa162"
+      },
+      {
+        "stage": 6,
+        "level": 3,
+        "board": "squaresville",
+        "victory_screenshot_sha256": "ce303c05f9b4dd51bfbca6806ccc820554b420cf2df48e46095234a007a92498"
+      },
+      {
+        "stage": 6,
+        "level": 4,
+        "board": "tunnellevel",
+        "victory_screenshot_sha256": "80750c5be8216618ab6e64f263583c7c1d301d6215fb7983c600103e77728256"
+      },
+      {
+        "stage": 6,
+        "level": 5,
+        "board": "serpents",
+        "victory_screenshot_sha256": "38090694fcd8f53768286f46e2ff6812a0d342653e3ec0546391936b33750c8e"
+      },
+      {
+        "stage": 6,
+        "level": 6,
+        "board": "overunder",
+        "victory_screenshot_sha256": "00702d763e87170a592aef7ce7c85c0a07ffd9231a33173930d6252316b89282"
+      },
+      {
+        "stage": 7,
+        "level": 1,
+        "board": "spiral",
+        "victory_screenshot_sha256": "aa2740436a4f36e23bd60ab69e378f083e17ee0bad15656f826db734f3a00661"
+      },
+      {
+        "stage": 7,
+        "level": 2,
+        "board": "claw",
+        "victory_screenshot_sha256": "b4ea4d1e93df6a1f30bc7e7090493e4160a78e50f530ba674d0a82152dcba944"
+      },
+      {
+        "stage": 7,
+        "level": 3,
+        "board": "riverbed",
+        "victory_screenshot_sha256": "fb142e87c0c23ddf278733a7a1271bfd4e63f251628da7436bba3c099287aae7"
+      },
+      {
+        "stage": 7,
+        "level": 4,
+        "board": "targetglyph",
+        "victory_screenshot_sha256": "a95524ef3aaf60e2ff030b3fb2ff418188bee7c8adc6c95f1b3f2545dc924be7"
+      },
+      {
+        "stage": 7,
+        "level": 5,
+        "board": "blackswirley",
+        "victory_screenshot_sha256": "4fc42ff173cd3e11ccf0a9ce8ee58f4f720fc47064be2d4517aa367135a992e7"
+      },
+      {
+        "stage": 7,
+        "level": 6,
+        "board": "turnaround",
+        "victory_screenshot_sha256": "455301f431a3c7f0cb52bd83ef4e14ed90886d30b3e59a326afe6c58c9c00fe4"
+      },
+      {
+        "stage": 7,
+        "level": 7,
+        "board": "longrange",
+        "victory_screenshot_sha256": "d70d886b7f53a3ca5df3ac14ab295cc0ce9859e502ec0c3659de204426b6386f"
+      },
+      {
+        "stage": 8,
+        "level": 1,
+        "board": "tiltspiral",
+        "victory_screenshot_sha256": "2fe4a8442424d5acf1a35194b59109ca12ac7fe3ad3dfdd93f3c17ff21074865"
+      },
+      {
+        "stage": 8,
+        "level": 2,
+        "board": "underover",
+        "victory_screenshot_sha256": "50064e4e4cb014bc06a3eef11fafb9c60cede6c24b999fcec1cc11b36d762a4c"
+      },
+      {
+        "stage": 8,
+        "level": 3,
+        "board": "warshak",
+        "victory_screenshot_sha256": "6b43f8c3ea61018717b251e41584eb4ad912c7631b3049b17ae206e4bb73e039"
+      },
+      {
+        "stage": 8,
+        "level": 4,
+        "board": "loopy",
+        "victory_screenshot_sha256": "8d43bb2ab35646a15ec3c15a5b3a15ec712da540087618e5f128771035c6bf64"
+      },
+      {
+        "stage": 8,
+        "level": 5,
+        "board": "snakepit",
+        "victory_screenshot_sha256": "bd0fb51bf9311cbfa682b47ee749b2cf438f06432faa2d86f391ac79396eee79"
+      },
+      {
+        "stage": 8,
+        "level": 6,
+        "board": "groovefest",
+        "victory_screenshot_sha256": "63ff2a810c1426b74da2da3c0fcd646e8bd4cdafec1492ee85b6e3a66acbc93e"
+      },
+      {
+        "stage": 8,
+        "level": 7,
+        "board": "spaceinvaders",
+        "victory_screenshot_sha256": "039a0dc3849b90c509325704158ad1e2ef524a58ed4d44d00655c0f29c9052e2"
+      },
+      {
+        "stage": 9,
+        "level": 1,
+        "board": "triangle",
+        "victory_screenshot_sha256": "99782b90354898e8d1c21a262124a2532ec7579180cbaa6a2a03f80e3302e275"
+      },
+      {
+        "stage": 9,
+        "level": 2,
+        "board": "coaster",
+        "victory_screenshot_sha256": "600c1e6779a869314007237cf7075d1f6dcc5fd2c59aa86a932beba4559af6f3"
+      },
+      {
+        "stage": 9,
+        "level": 3,
+        "board": "squaresville",
+        "victory_screenshot_sha256": "733adc0367020ddff70feaad983fddc1f87b219d12cb589b9765ea99ba7be6d8"
+      },
+      {
+        "stage": 9,
+        "level": 4,
+        "board": "tunnellevel",
+        "victory_screenshot_sha256": "8ff9fac0e546744d43e433d96638b8d6aee3b59f4237fb000e8f90738676100a"
+      },
+      {
+        "stage": 9,
+        "level": 5,
+        "board": "serpents",
+        "victory_screenshot_sha256": "52030622982f91e562687f22a71268cea18cf5ab2d5f325f88ee849580e73251"
+      },
+      {
+        "stage": 9,
+        "level": 6,
+        "board": "overunder",
+        "victory_screenshot_sha256": "33cf8b7c5d123e7db9cda9bee7bfa98818fd2bdc2f0543fadc095a83e6e62af7"
+      },
+      {
+        "stage": 9,
+        "level": 7,
+        "board": "inversespiral",
+        "victory_screenshot_sha256": "3fe1b4046aadfdcac0031c6bb6abbe3dd47d9f9ff4721886f16f7ba1239fc976"
+      },
+      {
+        "stage": 10,
+        "level": 1,
+        "board": "spiral",
+        "victory_screenshot_sha256": "3da0728f3e16f8a211f04a568b3e5b07cd6895036d21b0360ea5463733bfe17c"
+      },
+      {
+        "stage": 10,
+        "level": 2,
+        "board": "claw",
+        "victory_screenshot_sha256": "ff4d2fa1a9734d58461e7b31bb65637ff8c64a15e6b3a4292eec3d9757efacb9"
+      },
+      {
+        "stage": 10,
+        "level": 3,
+        "board": "riverbed",
+        "victory_screenshot_sha256": "ae9873c2d7cff2bf2e49c565e567dab03bdbddbf639edc5857a5d357d8ddc345"
+      },
+      {
+        "stage": 10,
+        "level": 4,
+        "board": "targetglyph",
+        "victory_screenshot_sha256": "28e8db3669bafa2c5152461eebc572057db3a38c2520f526b188e613596b2aff"
+      },
+      {
+        "stage": 10,
+        "level": 5,
+        "board": "blackswirley",
+        "victory_screenshot_sha256": "505d7b1fa331ef30f86c2c26467fa941d3f4dbd158d15b8ce0a9d6f1d52c523b"
+      },
+      {
+        "stage": 10,
+        "level": 6,
+        "board": "turnaround",
+        "victory_screenshot_sha256": "3d0c749cc58a13ee9a29aa9d6c8e506b3d342c0d490f8437c589cc1834d540bd"
+      },
+      {
+        "stage": 10,
+        "level": 7,
+        "board": "longrange",
+        "victory_screenshot_sha256": "fac49dcf3361f54d37c4c5522ef1b17c7b21a945496685f917f9ae44e0b12cff"
+      },
+      {
+        "stage": 11,
+        "level": 1,
+        "board": "tiltspiral",
+        "victory_screenshot_sha256": "35d847f2aa3982c12d4f9b2f92063012c41dc3a3189ba90665c1fe5b4bd8b9fd"
+      },
+      {
+        "stage": 11,
+        "level": 2,
+        "board": "underover",
+        "victory_screenshot_sha256": "e7c0488dda908b85c75d4df4e9d0805301d9f668734e3c4a7fac8a9740d92922"
+      },
+      {
+        "stage": 11,
+        "level": 3,
+        "board": "warshak",
+        "victory_screenshot_sha256": "c7ed652fb6d089c8c9c5b9237197d93551bf9a4a367583c0dd5aa380104ab015"
+      },
+      {
+        "stage": 11,
+        "level": 4,
+        "board": "loopy",
+        "victory_screenshot_sha256": "fd4f08cb6a0330b7c980b047ec52885f0ba1764ce2f772b73e56e6418e204366"
+      },
+      {
+        "stage": 11,
+        "level": 5,
+        "board": "snakepit",
+        "victory_screenshot_sha256": "1112ca69859dccda0f3e1ebee3c00e48ecc1deb419951963fb7c8dabd8c27d4a"
+      },
+      {
+        "stage": 11,
+        "level": 6,
+        "board": "groovefest",
+        "victory_screenshot_sha256": "ec179e23ae72fae9c19ebbc73c6d99e56398d1daa98dbabeba8f59ca42a7cfe1"
+      },
+      {
+        "stage": 11,
+        "level": 7,
+        "board": "spaceinvaders",
+        "victory_screenshot_sha256": "bfedf14cc472f593859fae321457d5387d403801666d70f1a1f35bd1514b5acd"
+      },
+      {
+        "stage": 12,
+        "level": 1,
+        "board": "triangle",
+        "victory_screenshot_sha256": "c59c599c563d302b8300821a16ca0fd36e3b66c5a8d0789d90a7d87778496cdc"
+      },
+      {
+        "stage": 12,
+        "level": 2,
+        "board": "coaster",
+        "victory_screenshot_sha256": "f24e9f8c5d0c3efc9aacfe01c933f9a088e3fc78f439f907d0bcf1243fb55d90"
+      },
+      {
+        "stage": 12,
+        "level": 3,
+        "board": "squaresville",
+        "victory_screenshot_sha256": "2bf3fc9e7364964677a4929e51034fa52b7065a45b397bbfc46f2fe6840328b3"
+      },
+      {
+        "stage": 12,
+        "level": 4,
+        "board": "tunnellevel",
+        "victory_screenshot_sha256": "d8cf3f5e7a6aabf7b694a130973068bdbb28c69da9a033f3d77edc282a13c607"
+      },
+      {
+        "stage": 12,
+        "level": 5,
+        "board": "serpents",
+        "victory_screenshot_sha256": "4759431f8bafc23d956a1b53453c22c6323ac572000c697d81cc5077bd338b41"
+      },
+      {
+        "stage": 12,
+        "level": 6,
+        "board": "overunder",
+        "victory_screenshot_sha256": "6a6bcde6782b6037d22d89b0eb59a1d583211225a03b60150cd13772156ac0e7"
+      },
+      {
+        "stage": 12,
+        "level": 7,
+        "board": "inversespiral",
+        "victory_screenshot_sha256": "024e5939e7fd4e104a52a980e02ffbb40059dbfede788a3be3f5a3a47e201493"
+      },
+      {
+        "stage": 13,
+        "level": 1,
+        "board": "space",
+        "victory_screenshot_sha256": "c254e0a5661c5444edc90c7dacc3c1c085802108cb392dcbf723bc37f032dc56"
+      }
+    ]
+  },
+  "gauntlet": {
+    "confirmed": 23,
+    "required": 23,
+    "hat_obtained": true,
+    "completed_utc": "2026-11-08T10:00:40.948336+00:00",
+    "same_checkpoint_all_boards": true,
+    "original_manifest_sha256": "30dd7eb98d1eaed4dbe3ba3af25b65f37f2254d008528d2f7ee92a073b1a0347",
+    "boards": [
+      {
+        "board": "spiral",
+        "rank": 3,
+        "victory_screenshot_sha256": "16c08cd8235cb7cff460f549e5177f3fe9e18cc5c02abb7598de25934d03d06d",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "claw",
+        "rank": 3,
+        "victory_screenshot_sha256": "b941dd1d5e61f15724f412bdaca70b68b12ae14d1fb2591572d03903ac70ea08",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "riverbed",
+        "rank": 3,
+        "victory_screenshot_sha256": "d731de91ada628365581a09307541345eac5b2fa5dbcbbfcea6b94ab6a2f9723",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "targetglyph",
+        "rank": 3,
+        "victory_screenshot_sha256": "a5828c4178e7663a6ce619705572c2958698aa7b2e95e51ce2891930171c927b",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "blackswirley",
+        "rank": 3,
+        "victory_screenshot_sha256": "223aa6ada9142d696d9a6e197fe0ce224d9dad1bcf6ad584e33beac82e12d6e2",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "tiltspiral",
+        "rank": 3,
+        "victory_screenshot_sha256": "5ea48e69d950cc052d126a089a0911b76fa875b58c06ec12145ca0740e66b552",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "underover",
+        "rank": 3,
+        "victory_screenshot_sha256": "ba07e63ee04db851235a47054c04fa9b75d625220a3fcf58be31a4d9d039df05",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "warshak",
+        "rank": 3,
+        "victory_screenshot_sha256": "905f8212e2a19d4f26ca4f0897bb703c8bcb47f8535365e5fb9e2cefe310ce34",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "loopy",
+        "rank": 3,
+        "victory_screenshot_sha256": "136e82617541fd82801c1ecd7a0a67e170206c75c138b0ad0dc482d6ad401148",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "snakepit",
+        "rank": 3,
+        "victory_screenshot_sha256": "bba43657684c685692e76608aeac5cf5d50245722ac15d20257ce87e6eb339d6",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "triangle",
+        "rank": 3,
+        "victory_screenshot_sha256": "04f4f286a6729c73b4b09de30e1da6da12854abf2659b5e11c032cf7ff584de2",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "coaster",
+        "rank": 3,
+        "victory_screenshot_sha256": "ca3cef2a62b6fff26d851080c5dcc948cf177f147e5cd7d29f7f193daa654e39",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "squaresville",
+        "rank": 3,
+        "victory_screenshot_sha256": "dbe74f631acc5e1f9c21d7b20b63f060fa029214a77819d43f5d2799b60681f3",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "tunnellevel",
+        "rank": 3,
+        "victory_screenshot_sha256": "4ace2d8bd4852f06f9402af82d280d5d236451a3c099465b7c8263aa2ce3be84",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "serpents",
+        "rank": 3,
+        "victory_screenshot_sha256": "1d7d37bb08e9d63367f28ccaeb3794f139175db73d6c636a91b83fb02b470614",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "turnaround",
+        "rank": 3,
+        "victory_screenshot_sha256": "c5a4934c25093397c05e059c867ffb116f51c932c64a647a336217bab8dddb6c",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "groovefest",
+        "rank": 3,
+        "victory_screenshot_sha256": "4fca2ad2d80851a0b5ff55341c196a472f9b48485666b3f6927ca884c3897c6a",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "overunder",
+        "rank": 3,
+        "victory_screenshot_sha256": "6614b135ddd5ba2cd7eeaf77d968d763de7b2c0fdcea94fb2a0ebaa1f2505930",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "longrange",
+        "rank": 3,
+        "victory_screenshot_sha256": "347a0b0c8b64cadcf36d45982be36df3addd00c4fcaae3f318c805f9c8a4750d",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "spaceinvaders",
+        "rank": 3,
+        "victory_screenshot_sha256": "8c287709b825d972a0031ecf0fb136f0cff247333d897aa977c2e3c719a98490",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "inversespiral",
+        "rank": 3,
+        "victory_screenshot_sha256": "d11bfaf7bc82bcdf7a1b770cf3d948f868073785afe95989d4b13dd6a118e3b2",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "space",
+        "rank": 3,
+        "victory_screenshot_sha256": "bd2a76e1e84ee4a693badf24dce79f6556ac887be521f259c383deb8f3ea0641",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      },
+      {
+        "board": "random",
+        "rank": 3,
+        "victory_screenshot_sha256": "1137708ada26c0a893ca61595483377b814f00acb2409c452cb1d73b3ed3f6f4",
+        "checkpoint_sha256": "f84a754844168f1b9117746b43776850852ce46948c7b5fe1c3d7fe73be67b81"
+      }
+    ]
+  }
+}

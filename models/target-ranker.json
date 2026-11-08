@@ -1,0 +1,26 @@
+{
+  "format": 1,
+  "kind": "target_ranker",
+  "features": [
+    "color_match",
+    "run_size",
+    "progress",
+    "distance",
+    "blocked",
+    "same_neighbors",
+    "clearance",
+    "near_skull",
+    "confidence",
+    "chain_size"
+  ],
+  "source": "synthetic_feature_distillation+real_game_candidates",
+  "samples": 120000,
+  "width": 64,
+  "output_scale": 20.0,
+  "teacher_version": 4,
+  "curriculum": "immediate_clear_with_nonlinear_terminal_urgency",
+  "epochs": 60,
+  "seed": 42,
+  "validation_rmse": 0.8829150795936584,
+  "parameters": 2817
+}
